@@ -38,6 +38,8 @@ mvnw.cmd spring-boot:run
 
 ## 🛠️ How to Use
 
+A Postman collection is available [here](https://documenter.getpostman.com/view/49061873/2sB3QKrVRm) to test the endpoints.
+
 ### 🔍 Get All Tasks
 Get all tasks currently saved.
 ```bash
