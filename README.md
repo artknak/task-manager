@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
 </span> <br><br>
 
-A simple API that creates, updates and deletes tasks from a DB.
+A RESTful API built with Spring Boot for managing tasks (create, read, update, delete), backed by an embedded H2 database. 
 
 ---
 
